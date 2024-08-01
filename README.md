@@ -3,3 +3,4 @@ meu nome e Gustavo
 estou estudando no alura 
 Estou desenvolvendo a linguagem javascript 
 ultilizo esse espaço para organizar meus projetos 
+https://tenor.com/Q3rX.gif
